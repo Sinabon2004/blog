@@ -39,6 +39,5 @@ categories:
   - 教程
 ---
 
-
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+![Диплом](/post/diploma/diploma.png)
 
